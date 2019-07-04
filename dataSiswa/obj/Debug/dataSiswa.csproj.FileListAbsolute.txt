@@ -1,0 +1,16 @@
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\bin\Debug\dataSiswa.exe.config
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\bin\Debug\dataSiswa.exe
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\bin\Debug\dataSiswa.pdb
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.Properties.Resources.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.csproj.GenerateResource.cache
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.exe
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.pdb
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.UI.DataKelas.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.UI.DataSiswa.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.UI.Home.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.Dashboard.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.csproj.CopyComplete
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.UI.DataGuru.resources
+C:\Users\dimas\source\repos\dataSiswa\dataSiswa\obj\Debug\dataSiswa.csprojAssemblyReference.cache
